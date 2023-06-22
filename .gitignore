@@ -1,0 +1,5 @@
+./lecture4/airline/db.sqlite3
+./lecture4/airline/flights/__pycache__/
+./lecture4/flights.sql
+./lecture4/airline/airline/__pycache__/
+./lecture4/airline/flights/migrations/
