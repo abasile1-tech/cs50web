@@ -5,3 +5,6 @@ lecture4/airline/flights/migrations/
 lecture4/flights.sql
 
 lecture6/singlepage1/singlepage1/__pycache__
+lecture6/singlepage1/sectionExample1/migrations/
+lecture6/singlepage1/db.sqlite3
+lecture6/singlepage1/sectionExample1/__pycache__
