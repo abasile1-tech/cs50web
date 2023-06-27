@@ -9,4 +9,5 @@ lecture6/singlepage1/sectionExample1/migrations/
 lecture6/singlepage1/db.sqlite3
 lecture6/singlepage1/sectionExample1/__pycache__
 
-lecture6/singlepage1/scroll/migrations/
+lecture6/singlepage1/posts/migrations/
+lecture6/singlepage1/posts/__pycache__
